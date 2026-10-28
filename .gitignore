@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Temporary and generated images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# Keep original project documentation and models
+!.gitkeep
+
+# Editor and system files
+.DS_Store
+.vscode/
